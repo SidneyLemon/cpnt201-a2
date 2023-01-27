@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-# made my first push
+# made my first push or pull
 
 practicing merging
 
