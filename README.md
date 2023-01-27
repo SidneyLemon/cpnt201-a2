@@ -9,7 +9,7 @@ practice merging - rashid
 
 # made my first push or pull
 
-practicing merging
+practicing merging done
 
 Merge one
 
