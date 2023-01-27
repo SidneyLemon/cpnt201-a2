@@ -1,3 +1,4 @@
-# made my first push 
-practicing merging 
+# Group assignmnet merging
+practice merging - rashid
+
 -[rashid hayato]()
