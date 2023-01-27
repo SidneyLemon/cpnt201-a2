@@ -1,4 +1,5 @@
-# made my first push 
-practicing merging 
+# made my first push
 
--[rashid]()
+practicing merging
+
+-[rashid]() -[Sidney]()
